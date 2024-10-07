@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "dicestat",
+	"name": "Dice Stat ",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "DiceStat quickly calculates and displays the average roll for any dice notation (like 2d12). No more fumbling with mental math!",
+	"author": "Swendude",
+	"authorUrl": "https://github.com/swendude",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
